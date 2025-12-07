@@ -12,6 +12,7 @@ public class Main {
         myLinkedList.getLength();
 
         System.out.println("\nLinked List:");
+        myLinkedList.append(10);
         myLinkedList.printList();
 
         /*
